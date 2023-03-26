@@ -1,1 +1,1 @@
-Copyright 2023, Chaitee Milind Godbole
+Copyright © of Chaitee Milind Godbole, 2023
