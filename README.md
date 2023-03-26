@@ -1,4 +1,4 @@
-Copyright © of Chaitee Milind Godbole, 2023
+All Rights Reserved, Copyright © of Chaitee Milind Godbole, 2023
 
 
 The following described the different SavedModel files:
